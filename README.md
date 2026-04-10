@@ -1,5 +1,5 @@
 # Hello 👋, I'm Umut Altan
-### Computer Engineering Student | Aspiring Cybersecurity Researcher | Data Analytics Intern
+### Computer Engineering Student | Aspiring Cybersecurity Researcher | Projects and Data Analytics Intern At Garanti BBVA
 
 I am a fourth-year Computer Engineering student at Ankara University. I am passionate about Cybersecurity and Data Analytics, focusing on developing intelligent solutions for digital security challenges.
 
