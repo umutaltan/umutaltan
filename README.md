@@ -6,3 +6,4 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=umutaltan&theme=default" alt="GitHub Streak&v=2" />
 
+<img src="https://github-readme-stats.vercel.app/api?username=umutaltan&show_icons=true" />
